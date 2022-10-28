@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bettinasosa
 - 👀 I’m interested in DLTs, digital identity management and ML
-- 🌱 I’m currently a masters student at Imperial College London at the Design Engineering department 
-- 💞️ I’m looking to collaborate on IOTA digital identities
-- 📫 How to reach me bs1217@ic.ac.uk
+- 🌱 I’m currently working @Catapult as a founding full stack software engineer
+- 💞️ I’m looking to collaborate in the web3 community specifically with DAOs
+- 📫 How to reach me bettinasosarohl@gmail.com
 
 <!---
 bettinasosa/bettinasosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
