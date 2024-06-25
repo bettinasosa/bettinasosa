@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bettinasosa
 - 👀 I’m interested in DLTs, digital identity management and ML
 - 🌱 I’m currently working @Catapult as a founding full stack software engineer
-- 💞️ I’m looking to collaborate in the web3 community specifically in defi
+- 💞️ I’m looking to collaborate to work on projects related with AI
 - 📫 How to reach me bettinasosarohl@gmail.com
 
 <!---
